@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTest_CountLetter", "MyTest_CountLetter\MyTest_CountLetter.csproj", "{F294B2EC-6D88-4080-AD5F-D550805E708C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F294B2EC-6D88-4080-AD5F-D550805E708C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F294B2EC-6D88-4080-AD5F-D550805E708C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F294B2EC-6D88-4080-AD5F-D550805E708C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F294B2EC-6D88-4080-AD5F-D550805E708C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
